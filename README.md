@@ -1,6 +1,7 @@
 # Domain Lookup 🚀  
 
-A powerful CLI tool to check domain name availability using WHOIS. Supports checking multiple domains at the same time. Works both as a CLI tool and as a Node.js module.  
+✅ **Free to use!**
+🌍 A powerful **CLI** tool to check domain name availability using WHOIS. Supports checking **multiple domains** at the same time. Works both as a CLI tool and as a Node.js module.  
 
 ![NPM Version](https://img.shields.io/npm/v/domain-lookup?color=blue&style=flat-square)  
 ![Downloads](https://img.shields.io/npm/dt/domain-lookup?color=green&style=flat-square)  
